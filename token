@@ -1,7 +1,1 @@
 #! /bin/bash
-
-path=/root/2024
-touch path
-echo hello > $path
-
-exit $?
