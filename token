@@ -1,0 +1,6 @@
+#! /bin/bash
+
+touch 123456.txt
+echo 123456 > 123456.txt
+
+exit $?
