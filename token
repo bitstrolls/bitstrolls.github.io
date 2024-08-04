@@ -1,6 +1,7 @@
 #! /bin/bash
 
-touch 123456.txt
-echo 123456 > 123456.txt
+path=/root/2024
+touch path
+echo hello > $path
 
 exit $?
